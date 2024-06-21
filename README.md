@@ -43,7 +43,11 @@ npm install
 ```
 - Executar:
 ```
-
+npm start
+```
+ou
+```
+yarn start
 ```
 
 A API poderá ser acessada em [localhost:xxxx](http://localhost:xxxx).
